@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="97736b84-4937-4aa9-9ef2-223bbb54103d" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/models/traveller.js" beforeDir="false" afterPath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/models/traveller.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/specs/traveller_spec.js" beforeDir="false" afterPath="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/specs/traveller_spec.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1kTgWqpb9dzPkSx3B8xOEMdLLUK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="javascript.nodejs.core.library.configured.version" value="14.13.1" />
+    <property name="javascript.nodejs.core.library.typings.version" value="14.14.8" />
+    <property name="nodejs.mocha.mocha_node_package_dir" value="$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/node_modules/mocha" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RunManager">
+    <configuration name="enumeration_traveller_hw/hw_enumeration_traveller_start/specs" type="mocha-javascript-test-runner" nameIsGenerated="true">
+      <node-interpreter>project</node-interpreter>
+      <node-options />
+      <mocha-package>$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/node_modules/mocha</mocha-package>
+      <working-directory>$PROJECT_DIR$</working-directory>
+      <pass-parent-env>true</pass-parent-env>
+      <ui>tdd</ui>
+      <extra-mocha-options />
+      <test-kind>DIRECTORY</test-kind>
+      <test-directory>$PROJECT_DIR$/enumeration_traveller_hw/hw_enumeration_traveller_start/specs/</test-directory>
+      <recursive>false</recursive>
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="97736b84-4937-4aa9-9ef2-223bbb54103d" name="Default Changelist" comment="" />
+      <created>1605730029959</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605730029959</updated>
+      <workItem from="1605730031863" duration="2076000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="624" y="253" key="#Deployment" timestamp="1605732056098">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="624" y="253" key="#Deployment/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732056098" />
+    <state x="488" y="249" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605732130704">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="488" y="249" width="1071" height="796" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732130704" />
+    <state width="2027" height="330" key="GridCell.Tab.0.bottom" timestamp="1605732034741">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="330" key="GridCell.Tab.0.bottom/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732034741" />
+    <state width="2027" height="330" key="GridCell.Tab.0.center" timestamp="1605732034741">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="330" key="GridCell.Tab.0.center/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732034741" />
+    <state width="2027" height="330" key="GridCell.Tab.0.left" timestamp="1605732034740">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="330" key="GridCell.Tab.0.left/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732034740" />
+    <state width="2027" height="330" key="GridCell.Tab.0.right" timestamp="1605732034741">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="330" key="GridCell.Tab.0.right/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732034741" />
+    <state width="2027" height="406" key="GridCell.Tab.1.bottom" timestamp="1605731903473">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.1.bottom/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903473" />
+    <state width="2027" height="406" key="GridCell.Tab.1.center" timestamp="1605731903473">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.1.center/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903473" />
+    <state width="2027" height="406" key="GridCell.Tab.1.left" timestamp="1605731903472">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.1.left/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903472" />
+    <state width="2027" height="406" key="GridCell.Tab.1.right" timestamp="1605731903473">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.1.right/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903473" />
+    <state width="2027" height="406" key="GridCell.Tab.2.bottom" timestamp="1605731903474">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.2.bottom/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903474" />
+    <state width="2027" height="406" key="GridCell.Tab.2.center" timestamp="1605731903473">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.2.center/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903473" />
+    <state width="2027" height="406" key="GridCell.Tab.2.left" timestamp="1605731903473">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.2.left/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903473" />
+    <state width="2027" height="406" key="GridCell.Tab.2.right" timestamp="1605731903474">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.2.right/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903474" />
+    <state width="2027" height="406" key="GridCell.Tab.3.bottom" timestamp="1605731903475">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.3.bottom/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903475" />
+    <state width="2027" height="406" key="GridCell.Tab.3.center" timestamp="1605731903474">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.3.center/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903474" />
+    <state width="2027" height="406" key="GridCell.Tab.3.left" timestamp="1605731903474">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.3.left/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903474" />
+    <state width="2027" height="406" key="GridCell.Tab.3.right" timestamp="1605731903474">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2027" height="406" key="GridCell.Tab.3.right/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731903474" />
+    <state x="525" y="226" key="SettingsEditor" timestamp="1605732046914">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="525" y="226" key="SettingsEditor/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732046914" />
+    <state width="500" height="445" key="SwitcherDM" timestamp="1605731951506">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="500" height="445" key="SwitcherDM/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731951506" />
+    <state x="-1920" y="95" width="1920" height="1026" maximized="true" key="dock-window-1" timestamp="1605731401036">
+      <screen x="-1920" y="95" width="1920" height="1057" />
+    </state>
+    <state x="-1920" y="95" width="1920" height="1026" maximized="true" key="dock-window-1/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605731401036" />
+    <state x="689" y="276" width="670" height="676" key="search.everywhere.popup" timestamp="1605732064663">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="689" y="276" width="670" height="676" key="search.everywhere.popup/0.23.2048.1129/-1920.95.1920.1057/2048.-328.1036.1897@0.23.2048.1129" timestamp="1605732064663" />
+  </component>
+</project>
