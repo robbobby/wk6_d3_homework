@@ -1,4 +1,5 @@
-const AnagramFinder = function (word) {
+const AnagramFinder = function (wordToCompare) {
+    this.wordToCompare = wordToCompare;
 
 }
 
